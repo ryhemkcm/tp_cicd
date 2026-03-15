@@ -62,6 +62,7 @@ Les variables doivent être ajoutées dans `Settings > Secrets and variables > A
 Si vous souhaitez faire tourner les projets manuellement sans Docker (nécessite Node.js v22) :
 
 **Backend :**
+
 ```bash
 cd back
 npm install
@@ -69,6 +70,7 @@ node index.js
 ```
 
 **Frontend :**
+
 ```bash
 cd front
 npm install
