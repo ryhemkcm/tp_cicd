@@ -1,0 +1,6 @@
+.gitlab-ci.yml
+compose.yml
+.github/
+*.yml
+*.pdf
+back/
